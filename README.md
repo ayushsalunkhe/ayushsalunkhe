@@ -64,7 +64,7 @@
   <br/><br/>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ayushsalunkhe&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+    <img height="150em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=ayushsalunkhe&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsalunkhe&theme=tokyonight&hide_border=true&layout=compact" />
