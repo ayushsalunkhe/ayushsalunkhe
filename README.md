@@ -14,9 +14,7 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsalunkhe&theme=tokyonight&hide_border=true" />
-</div>
+<!-- Removed problematic stats widgets -->
 
 ---
 
@@ -29,7 +27,7 @@
 - 🌱 Learning new technologies and frameworks every day
 - 🔭 Looking to collaborate on innovative open-source projects
 - 💬 Ask me about web development, cloud solutions, or automation
-- ⚡ Fun fact: When I'm not coding, I'm probably [Your Hobby]
+- ⚡ Fun fact: When I'm not coding, I'm probably exploring new technologies
 
 <br clear="right"/>
 
@@ -58,36 +56,18 @@
 
 ---
 
-<div align="center">
-  <h2>🏆 GitHub Stats 🏆</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsalunkhe&theme=nord&no-frame=true&margin-w=15" />
-  <br/><br/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ayushsalunkhe&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsalunkhe&theme=tokyonight&hide_border=true&layout=compact" />
-  </a>
-</div>
-
----
-
 <h2 align="center">🔥 Featured Projects 🔥</h2>
 
 <div align="center">
-  <a href="https://portfolio-ayushsalunkhes-projects.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-  <!-- Add more project cards as needed -->
-</div>
-
----
-
-<div align="center">
-  <h2>⚡ Activity Graph ⚡</h2>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsalunkhe&theme=tokyo-night&hide_border=true" width="100%"/>
+  <h3>🚀 <a href="https://portfolio-ayushsalunkhes-projects.vercel.app/">Portfolio Website</a></h3>
+  <p>My personal portfolio showcasing my projects and skills</p>
+  
+  <!-- Add more projects with descriptions -->
+  <h3>💻 Project 2 Name</h3>
+  <p>Brief description of your project</p>
+  
+  <h3>🌐 Project 3 Name</h3>
+  <p>Brief description of your project</p>
 </div>
 
 ---
@@ -97,8 +77,8 @@
 ```javascript
 const ayush = {
   journey: [
-    "Started coding at the age of [Age]",
-    "Built my first website in [Year]",
+    "Started coding with HTML and CSS",
+    "Moved to JavaScript and frontend frameworks",
     "Mastered React and TypeScript",
     "Currently exploring Cloud Architecture and DevOps"
   ],
@@ -110,8 +90,7 @@ const ayush = {
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ayushsalunkhe/count.svg" />
   <h3>Thanks for visiting! 😊</h3>
   
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
