@@ -77,7 +77,7 @@
 
 <div align="center">
   <a href="https://portfolio-ayushsalunkhes-projects.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=portfolio&theme=tokyonight&hide_border=true&pat_1=YOUR_GITHUB_TOKEN" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=portfolio-&theme=tokyonight&hide_border=true" />
   </a>
   <!-- Add more project cards as needed -->
 </div>
