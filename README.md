@@ -76,9 +76,6 @@
 <h2 align="center">🔥 Featured Projects 🔥</h2>
 
 <div align="center">
-  <a href="https://portfolio-ayushsalunkhes-projects.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=portfolio&theme=tokyonight&hide_border=true" />
-  </a>
   <a href="https://collabedit-ruby.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=CollabEdit&theme=tokyonight&hide_border=true" />
   </a>
