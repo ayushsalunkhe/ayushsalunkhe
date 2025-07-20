@@ -77,13 +77,13 @@
 
 <div align="center">
   <a href="https://portfolio-ayushsalunkhes-projects.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=ayushsalunkhe.github.io&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=portfolio&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://collabedit-ruby.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=ayushsalunkhe.github.io&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=CollabEdit&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://chatapp-ayush-salunkhe.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=ayushsalunkhe.github.io&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushsalunkhe&repo=ChatApp&theme=tokyonight&hide_border=true" />
   </a>
   <!-- Add more project cards as needed -->
 </div>
